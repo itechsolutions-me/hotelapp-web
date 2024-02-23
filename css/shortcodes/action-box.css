@@ -29,6 +29,8 @@ NOTE: This file contains Action Box CSS.
 .action-box.theme-bg { padding: 30px; }
 .action-box.theme-bg a.button { right: 30px; }
 .action-box.theme-bg h3, .action-box.theme-bg p { color: #ffffff; } 
+.action-box.blue-bg { padding: 30px; }
+.action-box.blue-bg h3, .action-box.blue-bg p { color: #ffffff; }
 
 /*theme-bg*/
 .action-box.black-bg { padding: 30px; }
