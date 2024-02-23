@@ -16,9 +16,9 @@ NOTE: This file contains Counter CSS.
 .counter.text-white { color:#ffffff; }
 .counter.text-white label { color:#ffffff; }
 .counter.text-white span { color:#ffffff; }
-.counter.theme-color { color:#64be6b; }
-.counter.theme-color label { color:#64be6b; }
-.counter.theme-color span { color:#64be6b; }
+.counter.theme-color { color:#F79839; }
+.counter.theme-color label { color:#F79839; }
+.counter.theme-color span { color:#F79839; }
 
 
 /*counter-small*/
