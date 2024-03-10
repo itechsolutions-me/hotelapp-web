@@ -1959,7 +1959,7 @@ canvas{-moz-user-select: none; -webkit-user-select: none; -ms-user-select: none;
 
 /*service 07*/
 .secrvice-blog { margin-top: -110px; }
-.box-content{ box-shadow: 0px 15px 30px rgba(0, 0, 0, 0.1);}
+.box-content{ box-shadow: 0px 15px 30px rgba(0, 0, 0, 0);}
 .service-07 .agency-02-about-content-right { margin-left: -100px; }
 
 /*service details*/
