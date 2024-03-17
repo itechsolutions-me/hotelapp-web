@@ -25,22 +25,22 @@ NOTE: This file contains social icon CSS.
 .social-icons.color-hover .social-rss a:hover {background-color: #faa33d;}
 
 .social-icons.color .social-facebook a,
-.social-icons.color-hover .social-facebook a:hover{background-color:#5d82d1;}
+.social-icons.color-hover .social-facebook a:hover{background-color:#f79839;}
 
 .social-icons.color .social-twitter a,
-.social-icons.color-hover .social-twitter a:hover{background-color:#40bff5;}
+.social-icons.color-hover .social-twitter a:hover{background-color:#f79839;}
 
 .social-icons.color .social-vimeo a,
-.social-icons.color-hover .social-vimeo a:hover{background-color:#35c6ea;}
+.social-icons.color-hover .social-vimeo a:hover{background-color:#f79839;}
 
 .social-icons.color .social-myspace a,
-.social-icons.color-hover .social-myspace a:hover{background-color:#008dde;}
+.social-icons.color-hover .social-myspace a:hover{background-color:#f79839;}
 
 .social-icons.color .social-youtube a,
-.social-icons.color-hover .social-youtube a:hover{background-color:#ef4e41;}
+.social-icons.color-hover .social-youtube a:hover{background-color:#f79839;}
 
 .social-icons.color .social-instagram a,
-.social-icons.color-hover .social-instagram a:hover{background-color:#e1326b;}
+.social-icons.color-hover .social-instagram a:hover{background-color:#f79839;}
 
 .social-icons.color .social-gplus a,
 .social-icons.color-hover .social-gplus a:hover{background-color:#d68400;}
@@ -70,7 +70,7 @@ NOTE: This file contains social icon CSS.
 .social-icons.color-hover .social-forrst a:hover{background-color:#45ad76;}
 
 .social-icons.color .social-linkedin a,
-.social-icons.color-hover .social-linkedin a:hover{background-color:#238cc8;}
+.social-icons.color-hover .social-linkedin a:hover{background-color:#f79839;}
 
 .social-icons.color .social-wordpress a,
 .social-icons.color-hover .social-wordpress a:hover{background-color:#2592c3;}
@@ -171,7 +171,7 @@ NOTE: This file contains social icon CSS.
 /*icon */
 .social-icons.color-icon a { color: #F79839; }
 
-.social-icons.color-icon .social-rss a  { color: #faa33d;}
+.social-icons.color-icon .social-rss a  { color: #f79839;}
 
 .social-icons.color-icon .social-facebook a { color:#5d82d1;}
 
