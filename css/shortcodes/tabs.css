@@ -31,7 +31,7 @@ NOTE: This file contains tab CSS.
 .nav-right .tab-content { text-align: right; }
 
 /*round*/
-.round .nav.nav-tabs li a { border: none; line-height: normal; margin-right: 10px; border-radius: 90px; padding: 12px 30px; background: #f6f7f8; color: #353535; }
+.round .nav.nav-tabs li a { border: none; line-height: normal; margin-right: 10px; border-radius:5px; padding: 12px 30px; background: #f6f7f8; color: #353535; }
 
 /*shadow*/
 .shadow .nav.nav-tabs > li > a.active, .shadow .nav.nav-tabs > li > a.active:focus, .shadow .nav.nav-tabs > li > a.active:hover { color: #F79839;  background: #ffffff !important;  border-color:#eeeeee; border-bottom: 0; box-shadow:  0px 3px 10px rgba(0, 0, 0, 0.1); }
